@@ -1,0 +1,108 @@
+C:\Users\One\source\repos\ho\ho\bin\Debug\ho.exe.config
+C:\Users\One\source\repos\ho\ho\bin\Debug\ho.exe
+C:\Users\One\source\repos\ho\ho\bin\Debug\ho.pdb
+C:\Users\One\source\repos\ho\ho\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\One\source\repos\ho\ho\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\One\source\repos\ho\ho\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\One\source\repos\ho\ho\bin\Debug\Npgsql.dll
+C:\Users\One\source\repos\ho\ho\bin\Debug\System.Buffers.dll
+C:\Users\One\source\repos\ho\ho\bin\Debug\System.Collections.Immutable.dll
+C:\Users\One\source\repos\ho\ho\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\One\source\repos\ho\ho\bin\Debug\System.Memory.dll
+C:\Users\One\source\repos\ho\ho\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\One\source\repos\ho\ho\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\One\source\repos\ho\ho\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\One\source\repos\ho\ho\bin\Debug\System.Text.Json.dll
+C:\Users\One\source\repos\ho\ho\bin\Debug\System.Threading.Channels.dll
+C:\Users\One\source\repos\ho\ho\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\One\source\repos\ho\ho\bin\Debug\System.ValueTuple.dll
+C:\Users\One\source\repos\ho\ho\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\One\source\repos\ho\ho\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\One\source\repos\ho\ho\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\One\source\repos\ho\ho\bin\Debug\Npgsql.xml
+C:\Users\One\source\repos\ho\ho\bin\Debug\System.Buffers.xml
+C:\Users\One\source\repos\ho\ho\bin\Debug\System.Collections.Immutable.xml
+C:\Users\One\source\repos\ho\ho\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\One\source\repos\ho\ho\bin\Debug\System.Memory.xml
+C:\Users\One\source\repos\ho\ho\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\One\source\repos\ho\ho\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\One\source\repos\ho\ho\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\One\source\repos\ho\ho\bin\Debug\System.Text.Json.xml
+C:\Users\One\source\repos\ho\ho\bin\Debug\System.Threading.Channels.xml
+C:\Users\One\source\repos\ho\ho\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\One\source\repos\ho\ho\bin\Debug\System.ValueTuple.xml
+C:\Users\One\source\repos\ho\ho\obj\Debug\ho.csproj.AssemblyReference.cache
+C:\Users\One\source\repos\ho\ho\obj\Debug\ho.Login.resources
+C:\Users\One\source\repos\ho\ho\obj\Debug\ho.Properties.Resources.resources
+C:\Users\One\source\repos\ho\ho\obj\Debug\ho.csproj.GenerateResource.cache
+C:\Users\One\source\repos\ho\ho\obj\Debug\ho.csproj.CoreCompileInputs.cache
+C:\Users\One\source\repos\ho\ho\obj\Debug\ho.csproj.CopyComplete
+C:\Users\One\source\repos\ho\ho\obj\Debug\ho.exe
+C:\Users\One\source\repos\ho\ho\obj\Debug\ho.pdb
+C:\Users\One\source\repos\ho\ho\obj\Debug\ho.View.resources
+C:\Users\One\source\repos\ho\ho\obj\Debug\ho.Add_form.resources
+C:\Users\One\source\repos\ho\ho\obj\Debug\ho.Update_form.resources
+C:\Users\One\source\repos\ho\ho\bin\Debug\Dapper.dll
+C:\Users\One\source\repos\ho\ho\bin\Debug\Dapper.xml
+C:\Users\One\source\repos\ho\ho\obj\Debug\ho.View_user.resources
+C:\Users\One\source\repos\ho\ho\obj\Debug\ho.Create_user.resources
+C:\Users\One\source\repos\ho\ho\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\One\source\repos\ho\ho\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\One\source\repos\ho\ho\bin\Debug\BCrypt.Net.dll
+C:\Users\One\source\repos\ho\ho\bin\Debug\BCrypt.Net.xml
+C:\Users\One\source\repos\ho\ho\obj\Debug\ho.Find.resources
+C:\Users\One\source\repos\ho\ho\obj\Debug\ho.Query.resources
+F:\Code\My project\ho\bin\Debug\ho.exe.config
+F:\Code\My project\ho\bin\Debug\ho.exe
+F:\Code\My project\ho\bin\Debug\ho.pdb
+F:\Code\My project\ho\bin\Debug\BCrypt.Net.dll
+F:\Code\My project\ho\bin\Debug\BouncyCastle.Crypto.dll
+F:\Code\My project\ho\bin\Debug\Dapper.dll
+F:\Code\My project\ho\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Code\My project\ho\bin\Debug\Microsoft.Bcl.HashCode.dll
+F:\Code\My project\ho\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Code\My project\ho\bin\Debug\Npgsql.dll
+F:\Code\My project\ho\bin\Debug\System.Buffers.dll
+F:\Code\My project\ho\bin\Debug\System.Collections.Immutable.dll
+F:\Code\My project\ho\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Code\My project\ho\bin\Debug\System.Memory.dll
+F:\Code\My project\ho\bin\Debug\System.Numerics.Vectors.dll
+F:\Code\My project\ho\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Code\My project\ho\bin\Debug\System.Text.Encodings.Web.dll
+F:\Code\My project\ho\bin\Debug\System.Text.Json.dll
+F:\Code\My project\ho\bin\Debug\System.Threading.Channels.dll
+F:\Code\My project\ho\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Code\My project\ho\bin\Debug\System.ValueTuple.dll
+F:\Code\My project\ho\bin\Debug\BCrypt.Net.xml
+F:\Code\My project\ho\bin\Debug\BouncyCastle.Crypto.xml
+F:\Code\My project\ho\bin\Debug\Dapper.xml
+F:\Code\My project\ho\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Code\My project\ho\bin\Debug\Microsoft.Bcl.HashCode.xml
+F:\Code\My project\ho\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Code\My project\ho\bin\Debug\Npgsql.xml
+F:\Code\My project\ho\bin\Debug\System.Buffers.xml
+F:\Code\My project\ho\bin\Debug\System.Collections.Immutable.xml
+F:\Code\My project\ho\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Code\My project\ho\bin\Debug\System.Memory.xml
+F:\Code\My project\ho\bin\Debug\System.Numerics.Vectors.xml
+F:\Code\My project\ho\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Code\My project\ho\bin\Debug\System.Text.Encodings.Web.xml
+F:\Code\My project\ho\bin\Debug\System.Text.Json.xml
+F:\Code\My project\ho\bin\Debug\System.Threading.Channels.xml
+F:\Code\My project\ho\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Code\My project\ho\bin\Debug\System.ValueTuple.xml
+F:\Code\My project\ho\obj\Debug\ho.csproj.AssemblyReference.cache
+F:\Code\My project\ho\obj\Debug\ho.Add_form.resources
+F:\Code\My project\ho\obj\Debug\ho.Create_user.resources
+F:\Code\My project\ho\obj\Debug\ho.Find.resources
+F:\Code\My project\ho\obj\Debug\ho.Login.resources
+F:\Code\My project\ho\obj\Debug\ho.Properties.Resources.resources
+F:\Code\My project\ho\obj\Debug\ho.Query.resources
+F:\Code\My project\ho\obj\Debug\ho.Update_form.resources
+F:\Code\My project\ho\obj\Debug\ho.View_user.resources
+F:\Code\My project\ho\obj\Debug\ho.View.resources
+F:\Code\My project\ho\obj\Debug\ho.csproj.GenerateResource.cache
+F:\Code\My project\ho\obj\Debug\ho.csproj.CoreCompileInputs.cache
+F:\Code\My project\ho\obj\Debug\ho.csproj.CopyComplete
+F:\Code\My project\ho\obj\Debug\ho.exe
+F:\Code\My project\ho\obj\Debug\ho.pdb
