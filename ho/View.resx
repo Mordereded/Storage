@@ -240,6 +240,9 @@
   <data name="&gt;&gt;button4.ZOrder" xml:space="preserve">
     <value>13</value>
   </data>
+  <data name="button5.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
   <data name="button5.Location" type="System.Drawing.Point, System.Drawing">
     <value>514, 407</value>
   </data>

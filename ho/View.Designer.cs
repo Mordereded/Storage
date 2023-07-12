@@ -1,4 +1,8 @@
-﻿
+﻿using System;
+using System.Drawing;
+using System.Drawing.Text;
+using System.Windows.Forms;
+
 namespace ho
 {
     partial class View
@@ -52,6 +56,7 @@ namespace ho
             this.товарыToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.товарыСКатегориямиИСвойстваимиToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.контрактыToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.запросыToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.label2 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.button_change_data = new System.Windows.Forms.Button();
@@ -62,7 +67,6 @@ namespace ho
             this.label7 = new System.Windows.Forms.Label();
             this.button3 = new System.Windows.Forms.Button();
             this.Find_button = new System.Windows.Forms.Button();
-            this.запросыToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -232,6 +236,12 @@ namespace ho
             resources.ApplyResources(this.контрактыToolStripMenuItem, "контрактыToolStripMenuItem");
             this.контрактыToolStripMenuItem.Click += new System.EventHandler(this.контрактыToolStripMenuItem_Click);
             // 
+            // запросыToolStripMenuItem
+            // 
+            this.запросыToolStripMenuItem.BackColor = System.Drawing.Color.Tan;
+            this.запросыToolStripMenuItem.Name = "запросыToolStripMenuItem";
+            resources.ApplyResources(this.запросыToolStripMenuItem, "запросыToolStripMenuItem");
+            // 
             // label2
             // 
             resources.ApplyResources(this.label2, "label2");
@@ -300,12 +310,6 @@ namespace ho
             this.Find_button.UseVisualStyleBackColor = true;
             this.Find_button.Click += new System.EventHandler(this.Find_button_click);
             // 
-            // запросыToolStripMenuItem
-            // 
-            this.запросыToolStripMenuItem.BackColor = System.Drawing.Color.Tan;
-            this.запросыToolStripMenuItem.Name = "запросыToolStripMenuItem";
-            resources.ApplyResources(this.запросыToolStripMenuItem, "запросыToolStripMenuItem");
-            // 
             // View
             // 
             resources.ApplyResources(this, "$this");
@@ -341,6 +345,8 @@ namespace ho
             this.PerformLayout();
 
         }
+
+       
 
         #endregion
 

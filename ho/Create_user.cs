@@ -17,7 +17,7 @@ namespace ho
     public partial class Create_user : Form
     {
         private NpgsqlConnection connect;
-        private NpgsqlCommand sqlCommand;
+        //private NpgsqlCommand sqlCommand;
         private string sql = "";
         private string login;
         private string password;
@@ -121,7 +121,7 @@ namespace ho
                             transaction.Commit();
                             this.Close();
                         }
-                        catch (Exception ex)
+                        catch (Exception)
                         {
                             MessageBox.Show("Ошибка при обработке запроса" , "Ошибка создания пользователя", MessageBoxButtons.OK, MessageBoxIcon.Error);
                             transaction.Rollback();
